@@ -43,7 +43,10 @@ body {
 }
 
 .album {
-
+  position: absolute;
+  left: 0;
+  top: 0%;
+  width: 5%;
 }
 
 .time {
@@ -93,7 +96,9 @@ body {
 }
 
 .control-shuffle {
-
+  position: absolute;
+  left: 5.5%;
+  top: 1.4%;
 }
 
 .control-list {
