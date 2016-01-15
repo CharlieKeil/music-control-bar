@@ -58,10 +58,9 @@ body {
   -moz-appearance: none;
   border: 0;
   background-color: #aaa;
-  position:relative;
+  position: relative;
   bottom: 0;
   width: 100%;
-  left: 56.5px;
 }
 
 /*
